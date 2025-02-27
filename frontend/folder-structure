@@ -1,0 +1,20 @@
+frontend/
+  ├── src/
+  │   ├── components/
+  │   │   ├── common/
+  │   │   │   ├── Button.jsx
+  │   │   │   ├── Card.jsx
+  │   │   │   └── Modal.jsx
+  │   │   ├── layout/
+  │   │   │   ├── Header.jsx
+  │   │   │   └── Footer.jsx
+  │   │   ├── sections/
+  │   │   │   ├── Hero.jsx
+  │   │   │   ├── Features.jsx
+  │   │   │   ├── Demo.jsx
+  │   │   │   ├── Pricing.jsx
+  │   │   │   ├── Testimonials.jsx
+  │   │   │   └── FAQ.jsx
+  │   │   ├── Landing.jsx
+  │   ├── App.jsx
+  │   └── index.css 
