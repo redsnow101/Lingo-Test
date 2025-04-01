@@ -1,0 +1,11 @@
+flask==2.0.1
+werkzeug==2.0.3
+flask-cors==3.0.10
+python-dotenv==0.19.0
+# pyaudio==0.2.13
+wave==0.0.2
+requests==2.26.0
+groq==0.20.0
+elevenlabs==0.2.27
+keyboard==0.13.5
+pygame==2.5.2 
